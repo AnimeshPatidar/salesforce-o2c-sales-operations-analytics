@@ -1,4 +1,5 @@
 # Salesforce O2C Sales Operations Project
+Salesforce CRM project for sales operations, SLA monitoring, SOQL queries, and dashboard reporting.
 
 This project is based on a sales operations and CRM workflow using Salesforce, Python, and SOQL.
 
